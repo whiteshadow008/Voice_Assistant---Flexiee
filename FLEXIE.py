@@ -44,7 +44,7 @@ def open_application(app_name):
     # System Utilities
     "notepad": "notepad.exe",  # Notepad
     "calculator": "calc.exe",  # Calculator
-
+#
     # Browsers
     "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",  # Google Chrome
     "firefox": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",  # Mozilla Firefox
